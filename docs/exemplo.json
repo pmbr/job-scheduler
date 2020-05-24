@@ -1,0 +1,26 @@
+{
+  "janelaExecucao":{
+    "inicio":"2019-11-10 09:00:00",
+    "fim":"2019-11-11 12:00:00"
+  },
+  "jobs":[
+    {
+      "id":1,
+      "descricao":"Importação de arquivos de fundos",
+      "dataMaximaConclusao":"2019-11-10 12:00:00",
+      "tempoEstimado":2
+    },
+    {
+      "id":2,
+      "descricao":"Importação de dados da Base Legada",
+      "dataMaximaConclusao":"2019-11-11 12:00:00",
+      "tempoEstimado":2
+    },
+    {
+      "id":3,
+      "descricao":"Importação de dados de integração",
+      "dataMaximaConclusao":"2019-11-11 08:00:00",
+      "tempoEstimado":6
+    }
+  ]
+}
